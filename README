@@ -1,0 +1,13 @@
+Jennifer Quay Minnich
+10/13/20
+Lab 5: Enumerations, Structures, and Arrays
+
+Purpose_
+
+Lab 5 had several components which gave me practice on enumerations, structures, and arrays. I created enums and structs, stored user data in structs, wrote functions using structs, and rewrote lab3 by converting the functions into a struct.
+
+Conclusions_ 
+
+I figured out how to store the user input into the struct and run through the switch (including the leap year) without tons of trouble. The struct naming convention was something that gave me some confusion, calling the instance / the struct variable / the data in the struct was something I had to test and play around with.  I had some unresolved messes from this program before and took the time to reconfigure those for best results. Since we have learned so much since coding this original program I was able to fix it and testing to make sure every function was operating and return correct values before moving on to the actual lab requirements.
+
+My biggest issues this lab was fighting with accessing the data in the structs. Learning a new way to handle data with the struct container was intersting but it was not without it's challenges. I did get some help tweaking some compiler errors.
